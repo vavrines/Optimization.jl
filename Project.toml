@@ -34,7 +34,7 @@ ProgressLogging = "0.1"
 Reexport = "1.2"
 SciMLBase = "2.39.0"
 SparseArrays = "1.10"
-Symbolics = "5.12"
+Symbolics = "5.12, 7"
 TerminalLoggers = "0.1"
 julia = "1.9"
 
